@@ -60,7 +60,17 @@ def draw_route(route):
     print res
 
 
+def report_map(lis):
+    print "\n"
+    for row in lis:
+        line = "|"
+        for col in row:
+            line += " " + col + " " + "|"
+        print line
+
+
 if __name__ == "__main__":
     lis = map2list(MAP)
     route = search_treasre(lis)
+    report_map(lis)
     draw_route(route)
