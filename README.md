@@ -43,4 +43,8 @@ indicating where you found the treasure.
 
 How to automatically generate a treasure map?
 
+**Solution:**
+
+  * [Python 2](./python2/generate_treasure.py)
+
 # Moderate Problems
