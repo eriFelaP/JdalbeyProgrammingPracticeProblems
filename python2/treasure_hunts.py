@@ -65,7 +65,7 @@ def report_map(lis):
     for row in lis:
         line = "|"
         for col in row:
-            line += " " + col + " " + "|"
+            line += " " + str(col) + " " + "|"
         print line
 
 
