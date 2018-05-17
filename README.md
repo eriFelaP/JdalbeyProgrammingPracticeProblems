@@ -47,4 +47,9 @@ How to automatically generate a treasure map?
 
   * [Python 2](./python2/generate_treasure.py)
 
+## Extension 2
+
+Draw the treasure map and route.
+  * [Python 2](./python2/draw_treasure_and_route.py)
+
 # Moderate Problems
