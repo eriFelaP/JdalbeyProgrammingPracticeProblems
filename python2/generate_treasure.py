@@ -28,6 +28,7 @@ def generate_route(width=5, height=5, length=10):
 def generate_map(width=5, height=5, length=10):
     assert width < 10
     assert height < 10
+    assert width * height >= length
     res = []
     for _ in range(height):
         line = []
