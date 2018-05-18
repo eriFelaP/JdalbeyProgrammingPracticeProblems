@@ -67,4 +67,12 @@ finds. Print out "No saddle points" if there are none.
 
   * [Python 2](./python2/saddle_points.py)
 
+## Extension 2-1
+
+Write a program to generate an array containing saddle points.
+
+**Solution:**
+
+  * [Python 2](./python2/gen_saddle.py)
+
 # Moderate Problems
