@@ -35,7 +35,7 @@ def get_saddle_point(array):
             point = array[y][x]
             if point >= get_max_in_row(array, y) and \
                point <= get_min_in_col(array, x):
-                res.append(point)
+                res.append((point, y, x))
     return res
 
 
