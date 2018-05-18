@@ -6,7 +6,7 @@ Some programming practice problems come from Dr. John Dalbey and some extension 
 
 # Easy Problems
 
-## 1
+## Problem 1
 
 ```
 
@@ -39,7 +39,7 @@ indicating where you found the treasure.
 
   * [Python 2](./python2/treasure_hunts.py)
 
-## Extension 1
+## Extension 1-1
 
 How to automatically generate a treasure map?
 
@@ -47,12 +47,15 @@ How to automatically generate a treasure map?
 
   * [Python 2](./python2/generate_treasure.py)
 
-## Extension 2
+## Extension 1-2
 
 Draw the treasure map and route.
+
+**Solution:**
+
   * [Python 2](./python2/draw_treasure_and_route.py)
 
-# 2
+## Problem 2
 
 Write a program to search for the "saddle points" in a 5 by 5 array of integers.
 A saddle point is a cell whose value is greater than or equal to any in its row,
